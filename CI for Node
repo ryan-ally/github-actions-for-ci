@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "actions-template",
   "version": "6.5.3",
@@ -9318,3 +9319,10 @@
     }
   }
 }
+=======
+# CI for Node
+# tic-tac-toe game
+# start here
+Learn GitHub Actions through a fun little game.
+# end here
+>>>>>>> ryan-ally-patch-1
